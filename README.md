@@ -2,7 +2,7 @@ Group 1 - 'Fourth Place'
 
 Our project was based on Decion Tree Machine Learning.
 
-Each took a dataset, cleaned the data, splitting the dataset, creating a model, fitting the training dataset, predicting with the test dataset and creating visualizations. 
+Each member took a dataset, cleaned and split the dataset, created a model, fit the training dataset, predicted with the test dataset and created visualizations. 
 
 [Jin's Notebook](https://github.com/edwardoh7/wk09_fourthplace/blob/main/Jin%20Cars93.ipynb)
 
